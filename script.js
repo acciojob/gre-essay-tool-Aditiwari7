@@ -35,4 +35,5 @@
   
             // count words 
             word.textContent = wordList.length;
-        });
+		});
+
