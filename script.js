@@ -34,5 +34,5 @@
             });
   
             // count words 
-            word.textContent = words.length;
+            word.textContent = wordList.length;
         });
